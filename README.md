@@ -38,4 +38,4 @@ Risk Management: Quantify macroeconomic risks to investment portfolios
 Academia: Illustrate VAR and stress testing methodology
 
 
-
+![Alt Text]"C:\Users\shiva\Downloads\R data\Stress scenarios .png"
