@@ -36,3 +36,6 @@ Consulting: Demonstrate analytical skills and scenario planning
 Risk Management: Quantify macroeconomic risks to investment portfolios
 
 Academia: Illustrate VAR and stress testing methodology
+
+
+
